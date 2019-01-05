@@ -1,11 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Micro:bit
+title: Mackey Makey
 
-google_analytics: UA-131578130-1
+google_analytics: UA-131578130-2
 
 aux_links:
     "Voir la source sur GitHub":
-      - "//github.com/serresebastien/Micro-Bit"
+      - "//github.com/serresebastien/Makey-Makey"
       
 exclude: ["LICENSE.txt", "README.md"]
