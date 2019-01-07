@@ -20,7 +20,7 @@ Une fois l’interaction avec les enfants terminée, distribuez-leur les cartes 
 
 La solution et de mettre un doigt sur la bande « Earth » en bas de la carte et sur le bouton souhaité afin de fermer le circuit électrique. Profitez de cette première activité pour faire un rappel des matériaux conducteur et isolant.
 
-# Deuxième activité
+## Deuxième activité
 
 Maintenant que les enfants se sont familiarisés avec la carte, demandez-leur de sortir deux câbles pinces crocodiles et de refaire le même exercice, à savoir allumer la LED correspondant à un bouton précis. Interrogez-les sur le fonctionnement de la carte maintenant. Pourquoi doivent-ils toucher deux parties métalliques pour que la lumière verte s’allume ? Que se passe-t-il si les deux parties métalliques sont en contact ? Notre corps est-il conducteur ? Pourquoi ?
 

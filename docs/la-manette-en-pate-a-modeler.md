@@ -10,7 +10,7 @@ nav_order: 3
 * Travailler sur des notions simples d’électricité
 * Réalisation de circuit basique
 
-# Première manipulation avec la pâte à modeler
+## Première manipulation avec la pâte à modeler
 
 Distribuez un pot de pâte à modeler par enfant. Attention, si les enfants travaillent en groupe donnez un pot de la même couleur aux enfants du groupe afin d’éviter que les couleurs de pâte à modeler se mélange.
 
@@ -20,7 +20,7 @@ Une fois que les enfants auront fini de jouer avec la pâte à modeler demandez-
 
 Un fils est relié depuis le bouton à de la pâte à modeler (fils vert ci-dessus) et un autre est directement branché à la terre (fils rouge ci-dessus). L’enfant n’a plus qu’à tenir le câble relié à la terre dans sa main et à toucher la pâte à modeler afin de fermer le circuit.
 
-# Création de notre manette en pâte à modeler
+## Création de notre manette en pâte à modeler
 
 Pour la réalisation de notre manette, nous allons avoir besoin de seulement 3 touches : la flèche de gauche « left », la flèche de droite « right » et la bouton espace « space ». Un quatrième câble nous sera nécessaire afin de brancher la terre « earth ».
 
@@ -32,7 +32,7 @@ Demandez aux enfants de réaliser trois touches en pâte à modeler puis de les 
 <img src="https://github.com/serresebastien/Makey-Makey/blob/master/img/la-manette-pate-a-modeler/04.png?raw=true">
 <img src="https://github.com/serresebastien/Makey-Makey/blob/master/img/la-manette-pate-a-modeler/05.png?raw=true">
 
-# Utilisons notre manette pour jouer !
+## Utilisons notre manette pour jouer !
 
 La manette maintenant terminé, proposez aux enfants de la tester en jouant à quelques jeux simples sur internet. Le jeu que nous proposons est Bubble Trouble, ce dernier se joue avec les trois touches de notre manette.
 

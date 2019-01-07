@@ -9,7 +9,7 @@ nav_order: 4
 
 * Mettre en avant la créativité des enfants
 
-# Réalisation du piano
+## Réalisation du piano
 
 Pour la réalisation du piano, les enfants auront besoin d’une feuille de papier canson chacun, de papier aluminium de ciseau, d’un tube de colle et de leurs crayons de couleur afin de décorer leur piano une fois fini.
 
@@ -29,7 +29,7 @@ Le piano maintenant terminée demandez aux enfants de le personnaliser en dessin
 
 <img src="https://github.com/serresebastien/Makey-Makey/blob/master/img/le-piano-en-aluminium/05.png?raw=true">
 
-# Branchement du piano
+## Branchement du piano
 
 Passons maintenant au branchement de notre piano avec la carte Makey Makey. Reliez simplement chacune des bandes avec une pince crocodile comme ci-dessous.
 
