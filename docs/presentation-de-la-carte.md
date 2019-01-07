@@ -14,7 +14,7 @@ nav_order: 2
 
 Notre première activité consiste à introduire la carte Makey Makey que nous allons utiliser par la suite. Pour ce faire, avant de donner la carte aux enfants, interrogez-les sur l’apparence de cette dernière, à quoi pourrait-elle servir ? Continuez en présentant les différents câbles présents dans la boite. Le câble USB pour brancher la carte au PC et les 7 câbles pince-crocodile.
 
-<img src="https://github.com/serresebastien/Makey-Makey/blob/master/img/presentation-de-la-carte/01.png?raw=true">
+<img src="https://github.com/serresebastien/Makey-Makey/blob/master/img/presentation-de-la-carte/01.png?raw=true" width="400px">
 
 Une fois l’interaction avec les enfants terminée, distribuez-leur les cartes Makey Makey. Laissez-les brancher le câble USB de la carte à l’ordinateur puis demandez-leur de trouver le fonctionnement de la carte. Ils doivent trouver le moyen d’allumer les petites LED au-dessus des touches à l’aide leur main.
 

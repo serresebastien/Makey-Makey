@@ -4,7 +4,7 @@
 
 Tout le contenu proposé ici a pour but de vous aider avec la prise en main de votre carte Makey Makey. Vous pourrez, à travers plusieurs fiches, réaliser des petits projets vous permettant d'appréhender les nombreuses possibilités qu'offre la Makey Makey.
 
-N'attendez plus et commencez dès maintenant avec [la présentation de la carte](https://serresebastien.github.io/Makey-Makey/docs/#.html).
+N'attendez plus et commencez dès maintenant avec [la présentation de la carte](https://serresebastien.github.io/Makey-Makey/docs/presentation-de-la-carte.html).
 
 ## L'auteur
 
